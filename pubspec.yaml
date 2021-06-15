@@ -35,8 +35,6 @@ dependencies:
   # state management
   flutter_bloc: ^7.0.1
 
-  scrollable_positioned_list: ^0.2.0-nullsafety.0
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
